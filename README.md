@@ -1,4 +1,4 @@
-# site
+# getLonLat Site
 
 ## Project setup
 ```
