@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar" role="navigation" aria-label="main navigation">
+  <nav class="navbar is-light" role="navigation" aria-label="main navigation">
     <div class="container">
       <div class="navbar-brand">
         <a class="navbar-item" href="">
@@ -30,7 +30,7 @@
         <div class="navbar-end">
           <div class="navbar-item">
             <div class="buttons">
-              <router-link to="/about" class="button is-light">
+              <router-link to="/about" class="button is-light is-inverted">
                 About
               </router-link>
             </div>
