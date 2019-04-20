@@ -52,18 +52,25 @@ export default {
     return {
       projects: [
         {
-          id: 1,
+          id: 3,
+          name: "Vue.js",
+          image: "img/vuejs.png",
+          url: "https://vuejs.getlonlat.top",
+          repository: "https://github.com/getlonlat/vuejs.git"
+        },
+        {
+          id: 2,
           name: "Angular",
           image: "img/angular.png",
           url: "https://angular.getlonlat.top",
           repository: "https://github.com/getlonlat/angular.git"
         },
         {
-          id: 2,
-          name: "Vue.js",
-          image: "img/vuejs.png",
-          url: "https://vuejs.getlonlat.top",
-          repository: "https://github.com/getlonlat/vuejs.git"
+          id: 1,
+          name: "AngularJS",
+          image: "img/angularjs.png",
+          url: "https://angularjs.getlonlat.top",
+          repository: "https://github.com/getlonlat/angularjs.git"
         }
       ]
     };
