@@ -3,8 +3,8 @@
     <div class="content has-text-centered">
       <p>
         <strong>getLonLat</strong> by
-        <a href="https://github.com/hewerthomn">Éverton Inocêncio</a>.
-        The source code is licensed
+        <a href="https://github.com/hewerthomn">Éverton Inocêncio</a>. Source
+        code is licensed
         <a href="http://opensource.org/licenses/mit-license.php">MIT</a>.
       </p>
       <p>

@@ -1,6 +1,6 @@
 {
-  "name": "site",
-  "short_name": "site",
+  "name": "getLonLat",
+  "short_name": "getLonLat site",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",

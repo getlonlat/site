@@ -29,7 +29,9 @@
             <img :src="project.image" alt="" class="card-image" />
             <footer class="card-footer">
               <a :href="project.url" class="card-footer-item">
-                <span class="icon"><i class="fas fa-external-link-alt"></i></span>
+                <span class="icon"
+                  ><i class="fas fa-external-link-alt"></i
+                ></span>
                 <span>App</span>
               </a>
               <a :href="project.repository" class="card-footer-item">
@@ -40,9 +42,7 @@
           </div>
         </div>
       </div>
-
     </div>
-
   </div>
 </template>
 
